@@ -1,2 +1,7 @@
-<h3>15-Puxando alteracoes de outras pessoas pull</h3>
+<h1>14-Deletando branches locais e remotos</h1>
 
+
+<div>
+    <p>Vamos deletar uma branch</p>
+    <p>git branch -D teste2</p>
+</div>
